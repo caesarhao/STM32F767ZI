@@ -20,5 +20,7 @@ Study with STM32 Nucleo-144 development board
 
 
 ## Environment
-### Flash the software
+### Program and debug
 Under Fedora, install the packages **stlink** and **stlink-gui**
+### Compilation
+Under Fedora, install the package **arm-none-eabi-gcc**
